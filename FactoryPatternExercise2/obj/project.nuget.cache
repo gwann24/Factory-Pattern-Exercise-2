@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dq7OsLlsII6hB7mzWxDOpr7ZxyACt8mzwMxDtQ8MHFDRhf+nGJfFdGdOrTLvo6MzsMrcxZ1T5cHozWCRNBvMyQ==",
+  "dgSpecHash": "g0jyF/P/AT6lUivJqvAqGL2dnutnTC97xV6vbWzUM+Fca8xHJerAuznuX1uAV/5FPpijIR+Nt08qKXGbQp/Oiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\FactoryPatternExercise2\\FactoryPatternExercise2\\FactoryPatternExercise2.csproj",
+  "projectFilePath": "C:\\TrueCoders\\repos\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\FactoryPatternExercise2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
